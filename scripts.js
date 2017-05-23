@@ -4,3 +4,7 @@ window.onload = function(){
     prompt('What is your email?')
   });
 }
+
+var lalalal = function(){
+  console.log("Hello");
+}
